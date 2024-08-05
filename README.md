@@ -5,3 +5,6 @@ The application takes two inputs from the user: n (total items) and r (items to 
 The application should calculate and display:
 The number of permutations P(n, r)
 The number of combinations C(n, r)
+
+Main.java has the scanner for user input and validation.
+MathCalc.java has the method to calculate permutations/combinations, and the factorial calculation used in those two methods
